@@ -8,7 +8,7 @@
 
 ## Anwendungen die 'Sinn' machen
 - Latex (Sprich: Tech) - Freeware für Mac und Win
-- [RStudio](https://rstudio.com) (Freeware für Mac und Win
+- [RStudio](https://rstudio.com) oder [Rstudio.cloud](https://rstudio.cloud) (Freeware für Mac und Win
 - [Matlab](https://mathworks.com) (Lizenzfrei aus dem DSHS Netzwerk inkl. aller Toolboxen)
 
 
