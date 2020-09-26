@@ -2,7 +2,7 @@
 
 ## Umgebung
 - Anaconda
-- VS Code
+- [VS Code](https://code.visualstudio.com/download)
 - JupyterLab (auf google aka Colab --> [colab-link](https://colab.research.google.com/notebooks/intro.ipynb#recent=true))
 
 
