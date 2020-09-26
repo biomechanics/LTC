@@ -3,7 +3,7 @@
 ## Umgebung
 - Anaconda
 - VS Code
-- JupyterLab
+- JupyterLab (auf google aka Collab)
 
 
 ## Anwendungen die 'Sinn' machen
