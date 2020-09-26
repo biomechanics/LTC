@@ -14,5 +14,6 @@
 
 # Generelle Philosophie der Datenverarbeitung
 
-Formatlos Tippen (Rmarkdown bzw. Notebookin Rstudio) > Wenn nötig mit Code-Zellen (R,Python etc.) > Output (html oder pdf) via Latex (Rstudio-knit)
+Formatlos Tippen (Rmarkdown bzw. Notebook in Rstudio) > Wenn nötig bzw. sinnvoll mit Code-Zellen (R,Python etc.) > Output (html oder pdf) via Latex (Rstudio-knit)
+
 
