@@ -3,7 +3,7 @@
 ## Umgebung
 - Anaconda
 - VS Code
-- JupyterLab (auf google aka Collab)
+- JupyterLab (auf google aka Colab --> [colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true))
 
 
 ## Anwendungen die 'Sinn' machen
