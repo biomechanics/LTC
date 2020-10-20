@@ -2,7 +2,7 @@
 
 ## Umgebung
 - Anaconda
-- [VS Code](https://code.visualstudio.com/download)
+- [VS Code](https://code.visualstudio.com/download) oder ohne Tracking von Microsoft [VS Codium](https://)
 - [JupyterLab](https://jupyter.org) (auf google aka Colab --> [colab-link](https://colab.research.google.com/notebooks/intro.ipynb#recent=true))
 
 
