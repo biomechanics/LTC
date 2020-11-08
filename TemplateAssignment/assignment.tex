@@ -1,0 +1,39 @@
+\documentclass[12pt,a4paper]{article}
+
+\input{input/packages}
+\input{input/newcommands}
+	
+\begin{document}
+
+%%%%%% ZEILENNUMMERN %%%%%%%
+\linenumbers % Einschalten der Zeilennummern
+\modulolinenumbers[5] % Jede fuenfte Zeile 
+\setlength\linenumbersep{1cm} % Abstand zwischen Zahl und Text
+
+
+% Hier kommt die Titelseite via Input rein
+\input{input/titlepage} 
+
+
+\newpage
+\section{Theoretisches Basiswissen} \label{ch:theorie}
+\input{input/theorie}
+
+\newpage
+\section{Anwendungsorietierter Teil} \label{ch:praxis}
+\input{input/praxis}
+
+\newpage
+\section{markdown} \label{ch:markdown}
+\input{input/markdownBSP}
+
+
+\newpage
+\bibliography{lit/lit}
+\bibliographystyle{plainnat}
+%\bibliographystyle{abbrvdin}
+%\bibliographystyle{unsrtnat}
+%\bibliographystyle{abbrv}
+
+
+\end{document}
