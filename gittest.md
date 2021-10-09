@@ -25,7 +25,7 @@ summary(cars)
     ##  3rd Qu.:19.0   3rd Qu.: 56.00  
     ##  Max.   :25.0   Max.   :120.00
 
-## Including Plots
+## Including Plots oder auch nicht
 
 You can also embed plots, for example:
 
@@ -33,12 +33,3 @@ You can also embed plots, for example:
 
 Note that the `echo = FALSE` parameter was added to the code chunk to
 prevent printing of the R code that generated the plot.
-
-
-Display math:
-```math
-e^{i\pi} + 1 = 0
-```
-and line math $`a^2 + b^2 = c^2`$.
-
-
