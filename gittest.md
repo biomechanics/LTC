@@ -33,3 +33,12 @@ You can also embed plots, for example:
 
 Note that the `echo = FALSE` parameter was added to the code chunk to
 prevent printing of the R code that generated the plot.
+
+
+Display math:
+```math
+e^{i\pi} + 1 = 0
+```
+and line math $`a^2 + b^2 = c^2`$.
+
+
